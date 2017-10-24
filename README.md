@@ -1,0 +1,2 @@
+# kanaShy.github.io
+blog
